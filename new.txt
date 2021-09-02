@@ -1,1 +1,1 @@
-this is new file
+Also added a new line to new.txt
